@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Dynamic Form Sample</string>
+    <string name="global_confirm">Ok</string>
+    <string name="validation_empty_element">Campo Obrigatório</string>
+    <string name="validation_invalid_value">Valor Inválido</string>
 </resources>

@@ -1,7 +1,8 @@
-package br.com.melgarejo.dynamicformsample
+package br.com.melgarejo.dynamicformsample.presentation
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import br.com.melgarejo.dynamicformsample.R
 
 class MainActivity : AppCompatActivity() {
 
